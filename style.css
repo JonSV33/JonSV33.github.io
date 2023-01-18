@@ -1,3 +1,7 @@
+fieldset {
+    border: 0;
+}
+
 body {
     background-color: #ada96959;
     color: #504848;
@@ -7,6 +11,9 @@ body {
     padding: 40pt;
     width: 960px;
     height: auto;
+
+
+
 }
 .box {
     background-color: #ec813a49;
@@ -15,6 +22,9 @@ body {
     height: auto;
     border-radius: 10pt;
     box-shadow: 5px 5px 10px 0 rgba(0, 0, 0, 0.3);
+    background-image: url(./Images/texture.png);
+
+
 }
 .title {
     color: #000000;
@@ -24,7 +34,7 @@ body {
     color: #000000;
 }
 .pers-info {
-    color: #000000;
+    color: rgb(58, 54, 54);
 }
 .header {
     grid-template-columns: auto;
@@ -39,5 +49,5 @@ body {
 .experience {
     font-size: 26px;
     margin: auto;
-    color: #000000;
+    color: #00000;
 }
