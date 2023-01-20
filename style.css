@@ -6,8 +6,10 @@ body {
     background-color: #ada96959;
     color: #504848;
     font-family: 'Times New Roman', Times, serif;
+    margin: 2% 29%;
     flex: auto;
     padding: 40pt;
+    width: 960px;
     height: auto;
     line-height: 19px;
 }
